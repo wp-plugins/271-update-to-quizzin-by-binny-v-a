@@ -4,7 +4,7 @@ Donate link: http://www.binnyva.com/
 Tags: quiz,question,answer,test
 Requires at least: 2.5
 Tested up to: 2.7.1
-Stable tag: 1.01.0
+Stable tag: 1.01.1
 
 Quizzin lets you add quizzes to your blog. This plugin is designed to be as easy to use as possible. Quizzes, questions and answers can be added from the admin side. This will appear in your post if you add a small code snippet in your post.
 
@@ -13,6 +13,7 @@ Quizzin lets you add quizzes to your blog. This plugin is designed to be as easy
 Quizzin lets you create quizzes with any number of questions in it. Each question can have many answers - in which one should be marked as the correct answer.
 
 You can add the quiz in a post by including the html comment [QUIZZIN 1] in the post. Here 1 is the ID of the quiz to be included.
+
 
 == Installation ==
 
@@ -39,3 +40,6 @@ You can add the quiz in a post by including the html comment [QUIZZIN 1] in the 
 * Wordpress 2.7 Compatability
 * Bugfixes
 
+= 1.01.1 =
+*zkorwin - updated to work with 2.7.1
+*no longer displays the number of questions in each quiz 
